@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Fatima Attafi.<br>👀 I’m interested in learning new things.<br>🌱 I'm currently a senior computer science student.<br>📫  You can reach me on Twitter: [@FATIMA_24F](https://twitter.com/fatima_24f?lang=en)<br>⚡  fact :Yellow is my lucky color.
+👋 Hi, I’m Fatima Attafi.<br>👀 I’m interested in learning new things.<br>🌱 I'm currently a Fresh computer science Grudate.<br>📫  You can reach me on Twitter: [@FATIMA_24F](https://twitter.com/fatima_24f?lang=en)<br>⚡  fact :Yellow is my lucky color.
 
 
 # 💻 Languages and Tools:
